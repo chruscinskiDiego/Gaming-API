@@ -1,4 +1,4 @@
-package com.gamingdata.leagueOfLegends.controller;
+package com.gamingdata.controller;
 
 
 import com.gamingdata.model.Summoner;
